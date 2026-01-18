@@ -79,13 +79,6 @@ Sales show clear monthly trends and seasonality
 
 A small set of products contributes to most revenue
 
-▶️ How to Run the Project
-
-Clone the repository
-
-git clone https://github.com/your-username/global-superstore-python-analysis.git
-
-
 Install dependencies
 
 pip install pandas numpy matplotlib seaborn
