@@ -1,0 +1,105 @@
+📌 Project Description
+
+This project focuses on end-to-end data analysis using the Global Superstore dataset.
+The objective is to analyze sales performance, profitability, product trends, and regional insights using Python data analytics tools.
+
+The project demonstrates data cleaning, exploratory data analysis (EDA), and data visualization, making it suitable for Data Analyst fresher roles.
+
+🛠️ Tools & Technologies
+
+Python
+
+Pandas – data manipulation & cleaning
+
+NumPy – numerical operations
+
+Matplotlib – data visualization
+
+Seaborn – advanced charts
+
+📂 Dataset
+
+Dataset Name: Global Superstore
+
+Records: 5,000 rows
+
+Format: CSV
+
+Columns:
+
+OrderID
+
+CustomerName
+
+ProductName
+
+Category
+
+SubCategory
+
+Sales
+
+Quantity
+
+Profit
+
+OrderDate
+
+Region
+
+🔍 Key Analysis Performed
+
+Data cleaning and preprocessing
+
+Total sales and profit analysis
+
+Category-wise and region-wise performance
+
+Top-selling products identification
+
+Monthly sales trend analysis
+
+📈 Visualizations Created
+
+Sales by Category (Bar Chart)
+
+Profit by Region (Bar Chart)
+
+Monthly Sales Trend (Line Chart)
+
+Top 10 Products by Sales
+
+📊 Business Insights
+
+Technology category generates the highest revenue
+
+West and East regions are the most profitable
+
+Sales show clear monthly trends and seasonality
+
+A small set of products contributes to most revenue
+
+▶️ How to Run the Project
+
+Clone the repository
+
+git clone https://github.com/your-username/global-superstore-python-analysis.git
+
+
+Install dependencies
+
+pip install pandas numpy matplotlib seaborn
+
+
+Run the Python script or Jupyter Notebook
+
+python analysis.py
+
+📌 Project Outcome
+
+This project provides actionable business insights and demonstrates practical Python data analytics skills, making it a strong portfolio project for entry-level Data Analyst roles.
+
+👩‍💻 Author
+
+Madhavi Barad
+Aspiring Data Analyst
